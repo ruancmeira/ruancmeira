@@ -4,5 +4,5 @@
 
 ### About
 
-![ruancmeira Status](https://github-readme-stats.vercel.app/api?username=ruancmeira&show_icons=true&theme=highcontrast&count_private=true)
+![ruancmeira Status](https://github-readme-stats.vercel.app/api?username=ruancmeira&show_icons=true&theme=cobalt&count_private=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ruancmeira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
