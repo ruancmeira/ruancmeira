@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/ruancmeira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruancmeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoRauber&layout=compact&langs_count=7&theme=dracula"/> -->
+  ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
 </div> 
   <br> 
 
